@@ -1,10 +1,10 @@
 # ASP.NET Demo Apps
 Demo apps built with ASP.NET, used for teaching web programming. Showcasing builting MVC/WEB apps and APIs with ASP.NET.
 
-# BulkyBook & ProductApp
+# Category & Product Apps MVC
 Projects using ASP.NET MVC using bootstrap and other UI libraries.
 
-# MinimalJwt
+# MinimalJwtAPI
 API built with ASP.NET Minimal API project structure, with a mock database for easier demonstration, using JWT(JSON Web Token) for authentication and authorization.
 
 # ListAPI
